@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ddd-demo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/ddd-demo-order-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/ddd-demo-product-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ddd-demo-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
