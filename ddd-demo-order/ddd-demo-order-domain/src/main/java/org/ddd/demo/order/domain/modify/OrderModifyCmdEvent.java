@@ -1,8 +1,9 @@
 package org.ddd.demo.order.domain.modify;
 
+import org.ddd.demo.common.event.BaseDomainEvent;
+
 /**
  * @author huangjiachang
- * @date 2023/8/9
  */
-public class OrderModifyCmdEvent {
+public class OrderModifyCmdEvent  extends BaseDomainEvent {
 }

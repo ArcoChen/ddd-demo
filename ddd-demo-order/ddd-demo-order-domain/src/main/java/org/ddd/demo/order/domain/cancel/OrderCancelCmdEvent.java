@@ -1,8 +1,14 @@
 package org.ddd.demo.order.domain.cancel;
 
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import org.ddd.demo.common.event.BaseDomainEvent;
+
 /**
  * @author huangjiachang
- * @date 2023/8/9
  */
-public class OrderCancelCmdEvent {
+@Data
+@EqualsAndHashCode(callSuper = true)
+public class OrderCancelCmdEvent extends BaseDomainEvent {
+
 }

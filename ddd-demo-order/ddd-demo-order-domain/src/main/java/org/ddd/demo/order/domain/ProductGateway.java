@@ -1,5 +1,7 @@
 package org.ddd.demo.order.domain;
 
+import java.util.List;
+
 /**
  * 商品防腐层
  *
@@ -13,4 +15,11 @@ public interface ProductGateway {
      * @param id 商品id
      */
     void checkProductStatus(Long id);
+
+
+    /**
+     * 校验商品状态
+     * @param ids 商品ids
+     */
+    void checkProductStatus(List<Long> ids);
 }

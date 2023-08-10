@@ -1,5 +1,6 @@
 package org.ddd.demo.order.infrastructure.gateway;
 
+import java.util.List;
 import org.ddd.demo.order.domain.InventoryGateway;
 import org.ddd.demo.product.client.InventoryRpcService;
 import org.springframework.stereotype.Component;
@@ -18,6 +19,11 @@ public class InventoryGatewayImpl implements InventoryGateway {
 
     @Override
     public void checkInventory(Long productId) {
+
+    }
+
+    @Override
+    public void checkInventory(List<Long> productIds) {
 
     }
 }
